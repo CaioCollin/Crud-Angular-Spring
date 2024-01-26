@@ -1,7 +1,7 @@
 
 ## CRUD ANGULAR + SPRING 
 
-link do video: https://youtu.be/qJnjz8FIs6Q?si=n9WDHncbbfc3L1-D
+link do Curso - Prof loiane: https://youtu.be/qJnjz8FIs6Q?si=n9WDHncbbfc3L1-D
 
 
 Excelente curso! A professora demonstrou uma didática incrível, o que facilitou bastante meu aprendizado em Spring. Inicialmente, não tinha conhecimento algum sobre Angular, tornando o curso um desafio, mas, com dedicação, consegui absorver muitos conhecimentos. Os benefícios não se limitaram apenas ao back-end; pude aplicar o que aprendi até mesmo no front-end.
